@@ -1,0 +1,31 @@
+{
+  "pages": [
+    "mypages/index/index"
+  ],
+  "tabBar": {
+    "color": "#000000",
+    "selectedColor": "#f7f750",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "black bottom",
+    "list": [
+      {
+      "pagePath": "mypages/index/index",
+      "text": "首页"
+      //"iconPath": "images/home.png",
+      //"selectedIconPath": "images/home-selected.png"
+      },
+      {
+        "pagePath": "mypages/index/list",
+        "text": "搜索"
+        //"iconPath": "images/search.png",
+        //"selectedIconPath": "images/search-selected.png"
+      },
+      {
+        "pagePath": "mypages/index/list",
+        "text": "列表"
+        //"iconPath": "images/list.png",
+        //"selectedIconPath": "images/list-selected.png"
+      }
+    ]
+  }
+}
